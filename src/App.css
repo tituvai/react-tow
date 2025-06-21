@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+@theme {
+
+  /* Color Part Start  */
+
+  --color-blackC: #000000; 
+  --color-allBtnC: #5E3BEE; 
+  --color-bannerC: #F9F9FC; 
+  --color-cardC: #F9F9FC; 
+
+  /* Color Part End */
+
+  --font-poppins: "Poppins", "sans-serif"; 
+}
+
