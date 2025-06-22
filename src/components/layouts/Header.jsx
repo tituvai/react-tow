@@ -25,7 +25,7 @@ const Header = () => {
             </Menu>
            </div>
            <div className="">
-            <Button className={'bg-allBtnC py-3 px-6 text-white'} allBtn={'hire me'}/>
+            <Button className={'bg-allBtnC py-3 px-7 text-white'} allBtn={'hire me'}/>
            </div>
           </Flex>
       </Container>
